@@ -1,0 +1,210 @@
+header{
+    background-color: #37517e;
+}
+
+#menu li a{ 
+    color: white;
+    margin-left: 15px;
+}
+
+header h1{
+    font-size: 50px;
+    margin-top: 130px;
+    margin-bottom: 150px;
+}
+
+.banner-img img{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+/* About section */
+
+.about-section{
+    padding: 60px 0px;
+}
+
+.about-section h2{
+    font-weight: bold;
+}
+
+.para p{
+    font-size: 15px;
+    padding: 30px 0px;
+    line-height: 30px;
+}
+
+.para ul li{
+    list-style: none;
+    padding: 7px 0px;
+}
+
+
+/* Service Section */
+.services{
+    background-color: #f3f5fa;
+    padding: 50px 0px;
+}
+
+.services h2{
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+.card_icon{
+    display: table;
+    width: 75px;
+    height: 75px;
+    margin: auto;
+    line-height: 65px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.paragraph{
+    font-weight: normal;
+    font-size: 16px;
+    padding-top: 10px;
+}
+
+.services .card{
+    margin-top: 20px 0px;
+}
+
+/* CTA section */
+
+.cta{
+    background-color: teal;
+    padding: 120px 0px;
+}
+
+.cta h2{
+    color: white;
+}
+
+.cta p{
+    color: white;
+}
+
+.cta button{
+    color: white;
+    border-color: white;
+    padding: 15px 50px;
+    border-radius: 30px;
+    margin-top: 45px;
+}
+
+/* Team Section */
+.team_gap{
+    margin-top: 20px;
+}
+
+.team-part{
+    box-shadow: 0px 0px 10px 2px light grey;
+    transition: 1s;
+}
+
+.team-part:hover{
+    transform: translateY(-5px);
+}
+
+.team-part img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 30px;
+}
+
+.team-part h4{
+    font-size: 20px;
+    margin-top: 40px;
+}
+
+
+.border-in{
+    width: 60px;
+    border-top: 2px solid gray;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.s-links{
+    margin-bottom: 30px;
+}
+
+.s-links i{
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    color: darkblue;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 50%;
+}
+
+/* Contact Section */
+
+.contact_info{
+    border-top: 3px solid blue;
+    border-bottom: 3px solid blue;
+    box-shadow: 0px 0px 10px 2px lightgrey;
+    padding: 40px 30px 40px 30px;
+}
+
+
+.contact_info_in{
+    margin-bottom: 40px;
+}
+
+.contact_info1{
+    border-top: 3px solid blue;
+    border-bottom: 3px solid blue;
+    box-shadow: 0px 0px 10px 2px lightgrey;
+    padding: 40px 30px 40px 30px;
+}
+
+.contact_box{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+/* Footer */
+
+.footer{
+    background: lightgrey;
+    padding: 50px 0px;
+
+}
+
+.footer-left{
+    margin-bottom: 0px;
+    padding-left: 15px;
+}
+
+.footer-left-2 ul{
+    margin: 0px;
+    padding: 0px;
+    padding-left: 10px;
+}
+
+.footer-left-2 ul li{
+    display: block;
+}
+
+.footer-left-2 ul li a{
+   color: grey;
+   margin-bottom: 10px;
+   display: block;
+}
+
+.s-linked i{
+    width: 40px;
+    height: 40px;
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    margin: 10px;
+}
